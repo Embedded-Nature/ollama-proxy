@@ -11,11 +11,18 @@ This was designed specifically for the [Goose AI agent](https://github.com/block
 - **Streaming Support**: Handles both normal and streaming responses.
 - **Non-Blocking Execution**: Uses FastAPI and `httpx` for efficient async handling.
 
+  
+### Demo
+
+https://github.com/user-attachments/assets/74ebdcd0-f36b-4fa3-88c7-11cc8dabaafa
+
+
+
 ## Installation
 
 1. **Clone the Repository (If Applicable)**
    ```bash
-   git clone https://github.com/your-repo/ollama-proxy.git
+   git clone https://github.com/Embedded-Nature/ollama-proxy.git
    cd ollama-proxy
    ```
 
